@@ -2,7 +2,7 @@
    
 
 1.[Integrate arduino IDE with esp32 library](https://github.com/faysaltaysir/ESP32-integating-in-Arduino-IDE/blob/main/readme.md#adding-esp32-sketch-data-upload).<br>
-2.  download the file and Unzip it. Open the `.ino` file with arduino IDE. <br><br>
+2.  download the file and Unzip it. Open the `.ino` file with arduino IDE. <br>
 3. change your wifi credentials in code.<br>
 4. select the right board and port from `tools` > `boards`.<br>
 5. goto `Tools` > `ESP32 sketch data upload` and press and hold `BOOT` button of esp32 untill the code is uploaded.<br>
