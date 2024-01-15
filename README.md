@@ -1,6 +1,7 @@
 # Heart-Monitoring-With-Custom-Server
 <br> follow the steps to Integrate your Arduino IDE with ESP32 coding environment.<br>
-[Integrate arduino IDE with esp32 library]([https://github.com/me-no-dev/arduino-esp32fs-plugin](https://github.com/faysaltaysir/ESP32-integating-in-Arduino-IDE/blob/main/readme.md#adding-esp32-sketch-data-upload)).
+
+[Integrate arduino IDE with esp32 library]([https://github.com/me-no-dev/arduino-esp32fs-plugin](https://github.com/faysaltaysir/ESP32-integating-in-Arduino-IDE/blob/main/readme.md#adding-esp32-sketch-data-upload).
 
 1. download the file and Unzip it. Open the `.ino` file with arduino IDE. <br>
 2. change your wifi credentials in code.
