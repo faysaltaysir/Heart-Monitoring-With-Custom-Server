@@ -1,8 +1,5 @@
 # Heart-Monitoring-With-Custom-Server
 <br> follow the steps to Integrate your Arduino IDE with ESP32 coding environment.<br>
-
-
-1. Download and install the [ESP32 Sketch Data Upload Tool](https://github.com/me-no-dev/arduino-esp32fs-plugin).
    
 [Integrate arduino IDE with esp32 library](https://github.com/faysaltaysir/ESP32-integating-in-Arduino-IDE/blob/main/readme.md#adding-esp32-sketch-data-upload).
 
